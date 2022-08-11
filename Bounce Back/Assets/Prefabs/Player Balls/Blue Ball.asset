@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f17d1b85c72e9c7438ae30e80570ae12, type: 3}
+  m_Name: Blue Ball
+  m_EditorClassIdentifier: 
+  ballName: Blue Ball
+  sprite: {fileID: 21300000, guid: 5f9d2928ca85f45459a88eb3e124f52e, type: 3}
+  description: This is the standard ball. Still cool or not?
+  price: 0
