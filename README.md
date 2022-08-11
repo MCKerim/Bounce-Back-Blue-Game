@@ -1,0 +1,2 @@
+# Bounce Back Blue Game
+ This is a mobile game developed by me alone using the Unity game engine. In this game you have to quickly throw the blue ball to destroy all the enemies. There are many different enemies and it gets more and more difficult. It looks simple, but there is much more to it. The goal of the development was to make the mechanics of throwing fun and to learn a lot of things like in game currency and stores.
