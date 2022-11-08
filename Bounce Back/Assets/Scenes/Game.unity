@@ -1835,7 +1835,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &321103549
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2073,7 +2073,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &342130820
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11823,7 +11823,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1110465514
 RectTransform:
   m_ObjectHideFlags: 0
@@ -15221,7 +15221,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1557800108
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18202,7 +18202,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1850802378
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19276,7 +19276,7 @@ MonoBehaviour:
   touchPosText: {fileID: 1153780259}
   distanceToPlayerText: {fileID: 340409806}
   touchPhaseText: {fileID: 1055487218}
-  mobileInput: 0
+  mobileInput: 1
   spriteRenderer: {fileID: 606563529}
   activeColor: {r: 0.1254902, g: 0.9411765, b: 1, a: 1}
   deactiveColor: {r: 0.13318795, g: 0.6513143, b: 0.6886792, a: 1}
